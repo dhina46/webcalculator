@@ -47,7 +47,7 @@ function handleParentheses(eval_str) {
   }
   return eval_str;
 }
-//Below are the arithmetic operations
+//Below are the arithmetic operationsssssssssss
 function inputValidation(eval_str) {
     // Replace "π" with "(3.142)"
     eval_str = eval_str.replace(/π/g, "(3.142)");
